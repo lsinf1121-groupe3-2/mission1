@@ -1,0 +1,8 @@
+/bin
+
+*.class
+.classpath
+.classpath
+*.class
+*.class
+bin/postScriptInterpreter/command/AddCommand.class
